@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark!</h1>
 <h3 align="center">A British frontend developer based in Japan.</h3>
 
-<p align="center"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96557207/189237276-88a700bf-2592-4474-8a40-32d11f115837.png" alt="Mark avatar" width="350" height="450"/> </a>
+<p align="center"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96557207/189237276-88a700bf-2592-4474-8a40-32d11f115837.png" alt="Mark avatar" width="200" height="250"/> </a>
 
 - 🔭 Working on [ii-vent (a Rails task manager desktop app)](ii-vent.live)
 
