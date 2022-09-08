@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark!</h1>
 <h3 align="center">A British frontend developer based in Japan.</h3>
 
+<p align="center"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96557207/189051457-dfde42df-9929-44f8-88f7-5c0ca8cfd5c0.png" alt="manga version of me" width="250" height="250"/> </a>
+
 - 🔭 Working on [ii-vent (a Rails task manager desktop app)](ii-vent.live)
 
 - 🌱 Learning **React, Redux Toolkit 🔧**
