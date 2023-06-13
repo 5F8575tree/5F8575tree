@@ -7,7 +7,7 @@
 
 - 🌱 Learning **React, Redux Toolkit 🔧**
 
-- 👨‍💻 All of my projects are available at [$a-portfolio-page-that-will-be-coming-soon]($a-portfolio-page-that-will-be-coming-soon)
+- 👨‍💻 All of my projects are available at [my portfolio page](https://www.markjrawlins.com)
 
 - 💬 Feel free to ask me about **lovely places to visit in Japan 🇯🇵**
 
